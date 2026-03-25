@@ -1,3 +1,4 @@
+// Main server file for the authentication API
 require('dotenv').config();
 const express = require('express');
 const mongoose = require('mongoose');
